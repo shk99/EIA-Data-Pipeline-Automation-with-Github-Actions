@@ -1,6 +1,6 @@
 # Data Pipeline Automation with GitHub Actions
 
-In this course, learn how to set up workflows on GitHub Actions to automate processes with both R and Python. Instructor Rami Krispin takes you through the automation process, sharing real-world examples. He shows you how to set up a data pipeline, pull metadata from a pipeline, and deploy a live dashboard with GitHub Actions and Pages. If you’re tired of spending hours running scripts manually, or slowing down your workflow by pulling data from APIs or updating dashboards, join Rami in this course to see how automation can speed up your work.
+In this course, learn how to set up workflows on GitHub Actions to automate processes with both R and Python. Instructor Rami Krispin takes you through the automation process, sharing real-world examples. He shows you how to set up a data pipeline, pull metadata from a pipeline, and deploy a live dashboard with GitHub Actions and Pages.
 
 _See the readme file in the main branch for updated instructions and information._
 
